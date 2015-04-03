@@ -1,1 +1,21 @@
-$position_top: 2em;
+/**** {{theme-color}} ****/
+$theme-color-primary: #009bfb;
+$theme-color-secondary: white;
+$theme-color-terciary: #C3C3C3;
+
+/**** {{theme-button}} ****/
+$theme-button-size: 1.5rem;
+$theme-button-font-size: $theme-button-size;
+$theme-button-border-radius: 0.2em;
+$theme-button-padding: 0.5em 2em;
+$theme-button-margin: 0;
+
+/**** {{theme-button--blue}} ****/
+$theme-button-blue-color-background: $theme-color-primary;
+$theme-button-blue-color-text: white;
+$theme-button-blue-color-border: $theme-button-blue-color-background;
+
+/**** {{theme-button--grey}} ****/
+$theme-button-grey-color-background: $theme-color-terciary;
+$theme-button-grey-color-text: darken($theme-color-terciary, 25%);
+$theme-button-grey-color-border: $theme-button-grey-color-background;
