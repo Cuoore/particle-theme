@@ -1,11 +1,7 @@
 /**************************/
 /*                        */
-/*        buttons         */
+/*        button          */
 /*                        */
-/**************************/
-
-/**************************/
-/*    button              */
 /**************************/
 $theme-button-size: $theme-particles-size;
 $theme-button-font-size: $theme-button-size;
@@ -14,14 +10,14 @@ $theme-button-padding: 0.5em 2em;
 $theme-button-margin: 0;
 
 /**************************/
-/*    button-primary      */
+/*  button-primary-color  */
 /**************************/
 $theme-button-primary-color-background: $theme-color-primary;
 $theme-button-primary-color-text: white;
 $theme-button-primary-color-border: $theme-button-primary-color-background;
 
 /**************************/
-/*    button-terciary     */
+/* button-terciary-color  */
 /**************************/
 $theme-button-terciary-color-background: $theme-color-terciary;
 $theme-button-terciary-color-text: darken($theme-color-terciary, 25%);
