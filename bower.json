@@ -1,10 +1,10 @@
 {
-  "name": "particle-bar-buttons",
+  "name": "particle-theme",
   "version": "0.0.1-0",
   "authors": [
     "Javier Lopez de Ancos <@javierland>"
   ],
-  "description": "bar build with buttons",
+  "description": "theme with variables to configure particles",
   "license": "MIT",
   "homepage": "http://javierlopezdeancos.github.io/higgsboson/",
   "private": true,
@@ -13,8 +13,6 @@
     "bower_components"
   ],
   "dependencies": {
-    "particle-buttons":"git@github.com:javierlopezdeancos/particle-buttons.git#master",
-    "particle-theme":"git@github.com:javierlopezdeancos/particle-theme.git#master"
   },
   "devDependencies":{
     "particle-higgsboson":"git@github.com:javierlopezdeancos/higgsboson.git#master"
