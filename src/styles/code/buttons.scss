@@ -13,7 +13,7 @@ $theme-button-margin: 0;
 /*  button-primary-color  */
 /**************************/
 $theme-button-primary-color-background: $theme-color-primary;
-$theme-button-primary-color-text: white;
+$theme-button-primary-color-text: $theme-color-secondary;
 $theme-button-primary-color-border: $theme-button-primary-color-background;
 
 /**************************/

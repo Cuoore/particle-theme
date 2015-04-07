@@ -3,6 +3,8 @@
 /*        colors          */
 /*                        */
 /**************************/
+$theme-color-aux-black: #000000;
+$theme-color-aux-white: #FFFFFF;
 $theme-color-primary: #009bfb;
-$theme-color-secondary: white;
+$theme-color-secondary: $theme-color-aux-white;
 $theme-color-tertiary: #C3C3C3;

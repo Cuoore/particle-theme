@@ -3,5 +3,12 @@
 /*      bar-buttons       */
 /*                        */
 /**************************/
-$theme-bar-buttons-size: $theme-particles-size;
-$theme-bar-buttons-font-size: $theme-particles-size;
+$theme-bar-button-size: $theme-particles-size;
+$theme-bar-button-font-size: $theme-particles-size;
+
+/**************************/
+/*   bar-button--border   */
+/**************************/
+$theme-bar-button-border-style: solid;
+$theme-bar-button-border-width: 1px;
+$theme-bar-button-border-radius: $theme-button-border-radius;
