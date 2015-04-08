@@ -7,7 +7,7 @@
 /**************************/
 /*       text-font        */
 /**************************/
-$theme-text-font-family-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$theme-text-font-family-sans: "proxima-nova", "Helvetica Neue", "Helvetica", "Arial", "Verdana", "sans-serif";
 
 /**************************/
 /*       text-size        */
@@ -16,7 +16,10 @@ $theme-text-base-font-size: 15;
 $theme-text-size-alpha: 36;
 $theme-text-size-beta: 30;
 $theme-text-size-gamma: 24;
-$theme-text-size-delta: 15;
+$theme-text-size-delta: 21;
+$theme-text-size-epsilon: 19;
+$theme-text-size-dseta: 17;
+$theme-text-size-eta: 15;
 
 /**************************/
 /*       text-line        */
@@ -25,7 +28,10 @@ $theme-text-base-line: 20;
 $theme-text-line-alpha: 40;
 $theme-text-line-beta: 36;
 $theme-text-line-gamma: 30;
-$theme-text-line-delta: 20;
+$theme-text-line-delta: 28;
+$theme-text-line-epsilon: 25;
+$theme-text-line-dseta: 23;
+$theme-text-line-eta: 20;
 
 /**************************/
 /*       text-color       */
@@ -35,7 +41,20 @@ $theme-text-color-base: $theme-color-aux-black;
 /**************************/
 /*   text-margin-bottom   */
 /**************************/
-$theme-text-margin-bottom-h1: 15;
-$theme-text-margin-bottom-h2: 15;
-$theme-text-margin-bottom-h3: 15;
-$theme-text-margin-bottom-p: 20;
+$theme-text-margin-bottom/top-h1: $theme-text-base-font-size;
+$theme-text-margin-bottom/top-h2: 13;
+$theme-text-margin-bottom/top-h3: 12;
+$theme-text-margin-bottom/top-h4: 11;
+$theme-text-margin-bottom/top-h5: 10;
+$theme-text-margin-bottom/top-h6: 9;
+$theme-text-margin-bottom/top-p: 20;
+
+/**************************/
+/*   text-bold:   		    */
+/**************************/
+$theme-text-weight-h1: bold;
+$theme-text-weight-h2: bold;
+$theme-text-weight-h3: bold;
+$theme-text-weight-h4: bold;
+$theme-text-weight-h5: bold;
+$theme-text-weight-h6: bold;
