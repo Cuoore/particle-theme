@@ -15,6 +15,6 @@
   "dependencies": {
   },
   "devDependencies":{
-    "particle-higgsboson":"git@github.com:javierlopezdeancos/higgsboson.git#master"
+    "particle-higgsboson":"git@github.com:Cuoore/higgsboson.git#master"
   } 
 }
