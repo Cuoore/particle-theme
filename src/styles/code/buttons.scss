@@ -3,22 +3,22 @@
 /*        button          */
 /*                        */
 /**************************/
-$theme-button-size: $theme-particles-size;
-$theme-button-font-size: $theme-button-size;
-$theme-button-border-radius: 0.2rem;
-$theme-button-padding: 0.9rem 4rem;
-$theme-button-margin: 0;
+$theme__button---size: $theme__particles---size;
+$theme__button---font-size: $theme__button---size;
+$theme__button---border-radius: 0.2rem;
+$theme__button---padding: 0.9rem 4rem;
+$theme__button---margin: 0;
 
 /**************************/
 /*  button-primary-color  */
 /**************************/
-$theme-button-primary-color-background: $theme-color-primary;
-$theme-button-primary-color-text: $theme-color-secondary;
-$theme-button-primary-color-border: $theme-button-primary-color-background;
+$theme__button--primary-color---background: $theme--primary-color;
+$theme__button--primary-color---color: $theme--secondary-color;
+$theme__button--primary-color---border-color: $theme__button--primary-color---background;
 
 /**************************/
 /* button-tertiary-color  */
 /**************************/
-$theme-button-tertiary-color-background: $theme-color-tertiary;
-$theme-button-tertiary-color-text: darken($theme-color-tertiary, 35%);
-$theme-button-tertiary-color-border: $theme-button-tertiary-color-background;
+$theme__button--tertiary-color---background: $theme--tertiary-color;
+$theme__button--tertiary-color---color: darken($theme--tertiary-color, 35%);
+$theme__button--tertiary-color---border-color: $theme__button--tertiary-color---background;
