@@ -1,0 +1,24 @@
+:root {
+    --theme-btn---margin: 10px;
+    --theme-btn---padding: 10px;
+    --theme-btn---min-width: 70px;
+    --theme-btn---color: #000000;
+    --theme-btn---font-size: 14px;
+    --theme-btn--large---padding: 30px;
+    --theme-btn-primary---padding: 10px;
+    --theme-btn-primary---color: #FFFFFF;
+    --theme-btn-primary---background: #ED1864;
+    --theme-btn-primary---transition: all 2s linear;
+    --theme-btn-primary--large---padding: 30px;
+    --theme-btn-primary--small---padding: 5px;
+    --theme-btn-secondary---padding: 30px;
+    --theme-btn-secondary---color: #bfe8f1;
+    --theme-btn-secondary---background: #e9f3f5;
+    --theme-btn-secondary---transition: all 2s linear;
+    --theme-btn-secondary--hover---color: #9bd9e7;
+    --theme-btn-secondary--hover---background: #bfe8f1;
+    --theme-btn-secondary--large---padding: 30px;
+    --theme-btn-secondary--small---padding: 5px;
+    --theme-btn-outline---border-width: 1px;
+    --theme-btn-outline---background: #FFFFFF;
+}
